@@ -1,0 +1,626 @@
+This is only for final material covering the last 4 sections of the class. Does not include midterm 1 & material.
+
+⸻
+
+SPECIES CONCEPTS
+
+Biological Species Concept
+	•	Definition: A species is a group of actually or potentially interbreeding individuals that are reproductively isolated from others
+	•	Key idea: Can they mate and produce viable offspring?
+	•	Works well for: sexually reproducing organisms
+	•	Fails for: asexual organisms, fossils, ring species
+	•	Example: Lions vs tigers (can hybridize but still considered separate)
+
+⸻
+
+Morphological Species Concept
+	•	Definition: Species are defined by physical traits (appearance)
+	•	Key idea: Looks similar = same species
+	•	Problem: Convergent evolution can trick you
+	•	Works for: fossils, when no genetic data available
+	•	Example: Fossils classified by bone structure
+
+⸻
+
+Phylogenetic (Lineage) Species Concept
+	•	Definition: Species are groups that share a common ancestor and are genetically distinct
+	•	Key idea: Based on evolutionary history + DNA
+	•	Works for: all organisms (even asexual)
+	•	Limitation: needs genetic data
+	•	Example: Using DNA differences to separate species
+
+⸻
+
+REPRODUCTIVE ISOLATION (BIG ONE)
+
+Reproductive Isolating Mechanism (RIM)
+	•	Definition: Anything that prevents species from interbreeding
+	•	Broadest category
+
+⸻
+
+Prezygotic Isolation
+	•	Definition: Prevents fertilization from happening
+	•	Happens before zygote forms
+
+Types you need to know:
+
+⸻
+
+Gametic Isolation
+	•	Definition: Sperm and egg cannot fuse
+	•	Example: Sea urchin sperm can’t fertilize egg
+
+⸻
+
+Mechanical Isolation
+	•	Definition: Reproductive structures don’t match
+	•	Example: Plant pollen can’t physically interact with ovule  ￼
+
+⸻
+
+Behavioral Isolation
+	•	Definition: Different mating behaviors/signals
+	•	Example: Crickets with different mating songs  ￼
+
+⸻
+
+Habitat (Ecological) Isolation
+	•	Definition: Species live/use different environments
+	•	Example: Beetles preferring different flower colors  ￼
+
+⸻
+
+Geographic Isolation
+	•	Definition: Species are physically separated
+	•	Example: Birds breeding on east vs west coast  ￼
+
+⸻
+
+Postzygotic Isolation
+	•	Definition: Fertilization happens, but offspring fail
+
+⸻
+
+Reduced Hybrid Viability
+	•	Definition: Offspring die early or are weak
+	•	Example: Frog embryos dying early  ￼
+
+⸻
+
+Reduced Hybrid Fitness
+	•	Definition: Offspring survive but perform poorly
+	•	Example: Hybrids attacked more by predators  ￼
+
+⸻
+
+SPECIATION TYPES
+
+Allopatric Speciation (Vicariance)
+	•	Definition: Population split by physical barrier
+	•	Process: separated → evolve → can’t interbreed
+	•	Example: River splitting a population
+
+⸻
+
+Allopatric Speciation (Founder Effect)
+	•	Definition: Small group colonizes new area
+	•	Key idea: genetic drift is strong
+	•	Example: Island colonization
+
+⸻
+
+Sympatric Speciation
+	•	Definition: Speciation without geographic separation
+	•	Key driver: mutation or behavior creates isolation
+	•	Example: Mate preference differences
+
+⸻
+
+KEY HIERARCHY QUESTION (IMPORTANT)
+
+Order from most general → most specific:
+	1.	Reproductive isolating mechanism
+	2.	Prezygotic isolating mechanism
+	3.	Gametic isolation
+	4.	Sperm-egg incompatibility
+
+→ Big → smaller → very specific case
+
+⸻
+
+HOMOLOGOUS vs ANALOGOUS
+
+Homologous Traits
+	•	Definition: Same evolutionary origin (shared ancestry)
+	•	Key: structure matters, not function
+	•	Example: Human arm + cat leg
+
+⸻
+
+Analogous Traits
+	•	Definition: Same function, different origin
+	•	Cause: convergent evolution
+	•	Example: Bird wings vs insect wings
+
+⸻
+
+MONOPHYLETIC GROUPS
+
+Monophyletic
+	•	Definition: ancestor + ALL descendants
+	•	Correct clade
+
+⸻
+
+Not Monophyletic
+	•	Definition: missing descendants
+	•	Fix: must include all descendants
+	•	Example from key: some groups require adding extra taxa to be valid  ￼
+
+⸻
+
+COMMON ANCESTOR (PHYLOGENY)
+
+Most Recent Common Ancestor (MRCA)
+	•	Definition: the most recent node shared by taxa
+	•	How to find: trace branches backward until they meet
+
+⸻
+
+HARD CONCEPT (VERY TESTABLE)
+
+Trait interpretation in trees
+
+If multiple species share a trait:
+	•	If from same ancestor → homologous
+	•	If evolved separately → analogous
+
+Sometimes ambiguous:
+	•	Could be homologous and lost
+	•	OR analogous and evolved twice  ￼
+
+⸻
+
+HIGH-YIELD SUMMARY (memorize this)
+
+If you only remember a few things, make it these:
+	•	Species concept = how we define species
+	•	Pre vs postzygotic = before vs after fertilization
+	•	Allopatric vs sympatric = separated vs same location
+	•	Homologous = same origin
+	•	Analogous = same function
+	•	Monophyletic = ancestor + ALL descendants
+
+⸻
+
+NICHE CONCEPTS
+
+Fundamental Niche
+	•	Definition: The full range of abiotic conditions where a species can survive and reproduce
+	•	Key idea: No competitors, no predators—just physiology
+	•	Example: A plant can tolerate a wide temperature + moisture range  ￼
+
+⸻
+
+Realized Niche
+	•	Definition: Where a species actually lives due to biotic interactions
+	•	Key idea: Shrunk or altered by competition, predation, parasites
+	•	Example: Species avoids areas with predators or competitors  ￼
+
+⸻
+
+Carrying Capacity (K)
+	•	Definition: Maximum population size an environment can support
+	•	Determined by: resource availability
+	•	Example:
+	•	Parasites → decrease K
+	•	Mutualism → increase K  ￼
+
+⸻
+
+SPECIES INTERACTIONS (CORE SECTION)
+
+Symbiosis
+	•	Definition: Close, long-term interaction between species
+	•	Includes: mutualism, commensalism, parasitism
+	•	Examples from study guide:
+	•	Legume + Rhizobium (mutualism)
+	•	Clownfish + anemone
+	•	Parasite in fish mouth  ￼
+
+⸻
+
+Mutualism (+ / +)
+	•	Definition: Both species benefit
+	•	Example: plant + pollinator
+
+⸻
+
+Commensalism (+ / 0)
+	•	Definition: One benefits, other unaffected
+	•	Example: owl using prairie dog burrow
+
+⸻
+
+Parasitism (+ / –)
+	•	Definition: One benefits, one harmed
+	•	Example: tongue-eating isopod
+
+⸻
+
+Competition (– / –)
+	•	Definition: Both species harmed due to shared resource
+	•	Example: two species eating same food
+
+⸻
+
+Exploitation (+ / – broader category)
+	•	Includes:
+	•	Predation
+	•	Herbivory
+	•	Parasitism
+
+⸻
+
+Amensalism (– / 0)
+	•	Definition: One harmed, other unaffected
+	•	Less emphasized but still testable
+
+⸻
+
+COMPETITION OUTCOMES
+
+Competitive Exclusion
+	•	Definition: One species outcompetes another → local extinction
+	•	Example: invasive species replacing native bees  ￼
+
+⸻
+
+Resource Partitioning
+	•	Definition: Species divide resources to reduce competition
+	•	Example: birds feeding at different depths
+
+⸻
+
+Character Displacement
+	•	Definition: Evolutionary change in traits to reduce competition
+	•	Key: involves morphological change
+	•	Example: beak sizes diverging
+
+⸻
+
+KEY RULE (VERY TESTED)
+
+Resource partitioning = behavior/ecology
+Character displacement = evolution + morphology
+
+⸻
+
+KEY ECOLOGICAL ROLES
+
+Keystone Species
+	•	Definition: Disproportionately large impact despite low abundance
+	•	Example: sea stars maintaining diversity  ￼
+
+⸻
+
+Foundation Species
+	•	Definition: Species that physically form the habitat
+	•	Must be common
+	•	Example: coral reefs  ￼
+
+⸻
+
+Ecosystem Engineer
+	•	Definition: Species that modifies environment
+	•	Example: beavers building dams  ￼
+
+⸻
+
+PREDATOR–PREY DYNAMICS
+
+Lotka-Volterra Model
+	•	Purpose: describes predator–prey population changes
+
+Key ideas you actually need:
+	•	Predator population depends on prey
+	•	Prey population depends on predators
+	•	Leads to oscillations
+
+⸻
+
+Population Oscillations
+	•	Definition: predator and prey populations cycle
+	•	Why:
+	•	More prey → more predators
+	•	More predators → fewer prey
+	•	Fewer prey → fewer predators
+	•	Important detail: predator peaks lag behind prey peaks
+	•	Why lag: reproduction takes time  ￼
+
+⸻
+
+COMPETITIVE EXCLUSION PRINCIPLE
+	•	Definition: Two species using same limiting resource cannot coexist
+	•	Outcome: one wins
+	•	Avoidance:
+	•	Resource partitioning
+	•	Character displacement  ￼
+
+⸻
+
+DENSITY-DEPENDENT INTERACTIONS
+
+Density Dependence
+	•	Definition: Effects depend on population density
+	•	Example: disease spreads faster in dense populations
+
+⸻
+
+Herd Immunity
+	•	Definition: Enough immune individuals reduce disease spread
+	•	Mechanism: lowers effective contact between infected + susceptible
+	•	Key threshold: depends on R₀
+	•	Example: measles requires very high vaccination rates  ￼
+
+⸻
+
+EVOLUTIONARY INTERACTIONS
+
+Trait Matching
+	•	Definition: Two species evolve traits that improve mutual interaction
+	•	Interaction type: mutualism
+	•	Example: flower + pollinator co-adaptation  ￼
+
+⸻
+
+Evolutionary Arms Race
+	•	Definition: species evolve in opposition (offense vs defense)
+	•	Interaction type: antagonistic
+	•	Example: predator vs prey toxins/resistance  ￼
+
+⸻
+
+Key Difference (very testable)
+	•	Trait matching → both benefit
+	•	Arms race → one benefits, one harmed
+
+⸻
+
+WHY LESS EFFICIENCY CAN BE SELECTED
+
+Reduced Virulence / Efficiency
+	•	Definition: being too effective is bad evolutionarily
+	•	Reason:
+	•	Predator kills all prey → dies
+	•	Pathogen kills host too fast → no spread
+	•	Conclusion: moderation = survival  ￼
+
+⸻
+
+HIGH-YIELD SUMMARY (MEMORIZE THIS)
+
+If you only lock in a few:
+	•	Fundamental = abiotic potential
+	•	Realized = biotic reality
+	•	Competition = (– / –)
+	•	Mutualism = (+ / +)
+	•	Commensalism = (+ / 0)
+	•	Competitive exclusion = one species dies out
+	•	Resource partitioning = split resources
+	•	Character displacement = evolve differences
+	•	Keystone = rare but important
+	•	Foundation = common habitat builder
+	•	Predator-prey = oscillations + lag
+	•	Herd immunity = density-dependent protection
+
+⸻
+
+ECOSYSTEM PROCESSES
+
+Photosynthesis (Carbon Cycle)
+	•	Definition: CO₂ is converted into organic molecules using sunlight
+	•	Key idea: Removes carbon from atmosphere
+	•	Example: Plants pulling CO₂ into biomass
+
+⸻
+
+Dissolution (Carbon Cycle)
+	•	Definition: CO₂ dissolves into water
+	•	Key idea: Transfers carbon from atmosphere → ocean
+	•	Example: Atmospheric CO₂ entering ocean surface
+
+⸻
+
+Net Primary Productivity (NPP)
+	•	Definition: Rate producers store energy as biomass after respiration
+	•	Key idea:
+	•	Land → driven by solar radiation (temperature/precipitation influence)
+	•	Ocean → driven by nutrient availability
+	•	Example:
+	•	Tropics = high NPP (warm + wet)
+	•	Coastal ocean = high NPP (nutrients from runoff/upwelling)
+
+⸻
+
+SPECIES INTERACTIONS (ENVIRONMENT-DEPENDENT)
+
+Conditional Interaction
+	•	Definition: Interaction outcome changes depending on environment
+	•	Key idea: Same species pair ≠ fixed interaction
+	•	Example: Plant + mycorrhizae shifts from mutualism → parasitism
+
+⸻
+
+Stress Gradient Hypothesis
+	•	Definition: Positive interactions are more common under stressful conditions
+	•	Why: Cooperation increases survival when resources are limited
+	•	Example: Nutrient-poor soil → stronger plant–fungus mutualism
+
+⸻
+
+Mutualism (+ / +)
+	•	Definition: Both species benefit
+	•	Example: Plant gets nutrients, fungus gets sugars
+
+⸻
+
+Parasitism (+ / –)
+	•	Definition: One benefits, one is harmed
+	•	Example: Fungus taking plant sugars when plant doesn’t benefit
+
+⸻
+
+Commensalism (+ / 0)
+	•	Definition: One benefits, other unaffected
+	•	Example: Moderate nutrient levels → fungus benefits, plant neutral
+
+⸻
+
+SUCCESSION (VERY TESTED)
+
+Primary Succession
+	•	Definition: Community develops from bare substrate (no soil)
+	•	Key idea: Starts from scratch
+	•	Examples: Glacier retreat, lava flow, sand dunes
+
+⸻
+
+Secondary Succession
+	•	Definition: Community recovers where soil already exists
+	•	Key idea: Faster recovery
+	•	Examples: Fire, abandoned farmland
+
+⸻
+
+Pioneer Species
+	•	Definition: Early colonizers; fast-growing, r-selected
+	•	Example: Grasses, small plants
+
+⸻
+
+Climax Community
+	•	Definition: Stable, late-stage community
+	•	Key idea: Dominated by K-selected species
+	•	Example: Mature forest
+
+⸻
+
+ENERGY FLOW (CORE UNIT)
+
+Consumption Efficiency
+	•	Definition: Fraction of biomass consumed by next trophic level
+	•	Example: Higher in grasslands (plants easier to eat than trees)
+
+⸻
+
+Assimilation Efficiency
+	•	Definition: Fraction of consumed food that is digested
+	•	Key idea: Meat easier than plants
+	•	Example: Carnivores > herbivores
+
+⸻
+
+Production Efficiency
+	•	Definition: Fraction of assimilated energy turned into biomass
+	•	Key idea: Energy lost via respiration
+	•	Example: Ectotherms > endotherms
+
+⸻
+
+Ecological Efficiency
+	•	Definition: Total energy transfer between trophic levels
+	•	Key idea: Combines all efficiencies above
+
+⸻
+
+Energy Pyramid
+	•	Definition: Energy decreases at higher trophic levels
+	•	Why always pyramid:
+	•	Energy only enters at producers
+	•	Lost at each step (heat, respiration)
+	•	Result: Less energy at higher levels
+
+⸻
+
+TROPHIC + ENERGY INSIGHTS
+
+Trophic Level Efficiency (Diet Concept)
+	•	Definition: Energy decreases as you move up trophic levels
+	•	Key idea: Eating lower = more energy available
+	•	Example: Eating plants > eating animals (energy efficiency)
+
+⸻
+
+Mimicry (Energy Context)
+	•	Definition: Non-toxic species mimics toxic species
+	•	Effect: Reduces predation
+	•	Key concept tested: Consumption efficiency decreases
+
+⸻
+
+ECOSYSTEM-SCALE PROCESSES
+
+Dead Zones
+	•	Definition: Low-oxygen areas in water
+	•	Process:
+	•	Nutrients → algal bloom
+	•	Algae die → decomposition
+	•	Oxygen depleted → organisms suffocate
+	•	Example: Gulf of Mexico
+
+⸻
+
+Trophic Cascade
+
+Top-Down Cascade
+	•	Definition: Changes start at top predators
+	•	Example: Orca → otter → urchin → kelp
+
+Bottom-Up Cascade
+	•	Definition: Changes start at nutrient level
+	•	Example: Nutrients → algae → fish die
+
+⸻
+
+Aquifers
+	•	Definition: Underground water reservoirs
+	•	Key idea: Extremely slow recharge → effectively non-renewable
+	•	Example: Ogallala Aquifer (agriculture dependence)
+
+⸻
+
+KEY COMPARISON CONCEPT (VERY TESTED)
+
+Productivity Drivers
+	•	Terrestrial ecosystems: Temperature + sunlight
+	•	Marine ecosystems: Nutrient availability
+	•	Example:
+	•	Tropics → high productivity (warm + wet)
+	•	Coasts → high productivity (nutrient-rich)
+
+⸻
+
+HIGH-YIELD SUMMARY (MEMORIZE THIS)
+
+If you only lock in a few things, make it these:
+	•	NPP:
+	•	Land = sunlight/temperature
+	•	Ocean = nutrients
+	•	Primary vs Secondary succession = no soil vs soil
+	•	Pioneer = fast, early
+	•	Climax = stable, late
+	•	Consumption vs Assimilation vs Production:
+	•	Eat → digest → grow
+	•	Energy pyramid = always decreases upward
+	•	Ectotherms = more efficient than endotherms
+	•	Carnivores digest better than herbivores
+	•	Conditional interactions = environment matters
+	•	Stress → more cooperation
+	•	Dead zones = nutrients → algae → oxygen loss
+	•	Top-down = predators control system
+	•	Bottom-up = nutrients control system
+	•	Eating lower trophic level = more energy efficient
+
+⸻
